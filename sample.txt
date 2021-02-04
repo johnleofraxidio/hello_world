@@ -3,3 +3,5 @@ github exercise
 clone
 end
 changed something part 2 activity
+conflict error
+stretch challenge
