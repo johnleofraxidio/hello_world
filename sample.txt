@@ -2,3 +2,4 @@ sample message
 github exercise
 clone
 end
+changed something part 2 activity
